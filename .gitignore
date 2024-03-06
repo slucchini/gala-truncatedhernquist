@@ -1,0 +1,7 @@
+truncatedhernquist/version.py
+*.pyc
+*.so
+truncatedhernquist/cpotential.c
+truncatedhernquist/__pycache__/
+*.egg-info/
+.eggs/
